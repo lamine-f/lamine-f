@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am [First Name] [Last Name], a computer science enthusiast and aspiring engineer in constant evolution. My journey reflects my commitment to exploring the various facets of computer science, ranging from software development to system architecture, networks, theoretical computer science, and algorithms.
+I am a computer science enthusiast and aspiring engineer in constant evolution. My journey reflects my commitment to exploring the various facets of computer science, ranging from software development to system architecture, networks, theoretical computer science, and algorithms.
 
 
 <!---
