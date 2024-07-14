@@ -19,9 +19,9 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-[![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
-
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring%20Boot&logoColor=6DB33F)](https://spring.io/projects/spring-boot)
+[![React.js](https://img.shields.io/badge/-React.js-000?&logo=React&logoColor=61DAFB)](https://reactjs.org/)
+[![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)](https://angular.io/)
 
 [![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB&logoColor=003545)](https://mariadb.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
