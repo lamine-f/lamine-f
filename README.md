@@ -42,8 +42,10 @@
 
 ## En apprentissage / perfectionnement
 
-[![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
-[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=00DC82)](https://nuxtjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=FFF)](https://nextjs.org/)
+[![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS&logoColor=E0234E)](https://nestjs.com/)
+[![C#](https://img.shields.io/badge/-C%23-000?&logo=CSharp&logoColor=239120)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FF2D20)](https://laravel.com/)
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
 
 
