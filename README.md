@@ -12,6 +12,13 @@
 
 ## Languages et outils
 
+
+[![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://www.java.com/)
+[![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)](https://dart.dev/)
+
+
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass&logoColor=CC6699)](https://sass-lang.com)
@@ -19,8 +26,10 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring%20Boot&logoColor=6DB33F)](https://spring.io/projects/spring-boot)
 [![React.js](https://img.shields.io/badge/-React.js-000?&logo=React&logoColor=61DAFB)](https://reactjs.org/)
+
+
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring%20Boot&logoColor=6DB33F)](https://spring.io/projects/spring-boot)
 [![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)](https://angular.io/)
 
 [![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB&logoColor=003545)](https://mariadb.org/)
