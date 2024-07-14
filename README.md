@@ -1,4 +1,4 @@
-# Bienvenue sur mon compte GitHub 👋
+# Welcom 👋
 
 - 📫 Contactez-moi sur **persoitlamine42@gmail.com**
 
