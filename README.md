@@ -2,7 +2,7 @@
 
 - 📫 Contactez-moi sur **persoitlamine42@gmail.com**
 
-[![Dreeckan](https://github-profile-trophy.vercel.app/?username=dreeckan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
+[![Dreeckan](https://github-profile-trophy.vercel.app/?username=lamine-f&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Me retrouver
 
@@ -38,6 +38,10 @@
 
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
+
+
+[![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=FF6C37)](https://www.postman.com/)
+[![SoapUI](https://img.shields.io/badge/-SoapUI-000?&logo=SoapUI&logoColor=6DB33F)](https://www.soapui.org/)
 
 
 ## En apprentissage / perfectionnement
