@@ -6,9 +6,8 @@
 
 ## Me retrouver
 
-[![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=YouTube&logoColor=F00)](https://www.youtube.com/@drakolab)
-[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/Drakolab-yt/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/mouhamed-lamine-faye-54b419273/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/mouhamed.lamine.faye/)
 
 ## Languages et outils
 
@@ -32,12 +31,13 @@
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring%20Boot&logoColor=6DB33F)](https://spring.io/projects/spring-boot)
 [![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)](https://angular.io/)
 
+
 [![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB&logoColor=003545)](https://mariadb.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
+
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 
 
 ## En apprentissage / perfectionnement
