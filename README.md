@@ -1,6 +1,6 @@
 # hello_world 👋
 
-- 📫 Contact me at **persoitlamine42@gmail.com**
+- 📫 Contact me at **mouhamedlaminefaye@esp.sn**
 
 [![Dreeckan](https://github-profile-trophy.vercel.app/?username=lamine-f&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
